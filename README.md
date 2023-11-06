@@ -1,0 +1,2 @@
+# lotto
+For Israeli Lottery
